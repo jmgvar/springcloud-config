@@ -1,0 +1,11 @@
+server:
+  port: 7070
+  
+name: Pepe
+names:
+  - Abel
+  - Borja
+  - Carlos
+  - Domingo
+  - Enrique
+  - Fernando
